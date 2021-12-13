@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "1872",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NOME": "Fortaleza", "codigo": 2304400 }, "geometry": { "type": "Point", "coordinates": [ -38.542832564250752, -3.716769981068723 ] } },
+{ "type": "Feature", "properties": { "NOME": "Manáos", "codigo": 1302603 }, "geometry": { "type": "Point", "coordinates": [ -60.025066597675448, -3.101803132658897 ] } },
+{ "type": "Feature", "properties": { "NOME": "Porto Alegre", "codigo": 4314902 }, "geometry": { "type": "Point", "coordinates": [ -51.22998864305729, -30.031376232703053 ] } },
+{ "type": "Feature", "properties": { "NOME": "Bethlém", "codigo": 1501402 }, "geometry": { "type": "Point", "coordinates": [ -48.503942183837665, -1.455907383842329 ] } },
+{ "type": "Feature", "properties": { "NOME": "Curitiba", "codigo": 4106902 }, "geometry": { "type": "Point", "coordinates": [ -49.272971275873346, -25.426559965832283 ] } },
+{ "type": "Feature", "properties": { "NOME": "São Salvador", "codigo": 2927408 }, "geometry": { "type": "Point", "coordinates": [ -38.510852974879811, -12.970218994421929 ] } },
+{ "type": "Feature", "properties": { "NOME": "Natal", "codigo": 2408102 }, "geometry": { "type": "Point", "coordinates": [ -35.208799691687993, -5.794647463387118 ] } },
+{ "type": "Feature", "properties": { "NOME": "Victoria", "codigo": 3205309 }, "geometry": { "type": "Point", "coordinates": [ -40.337896688824394, -20.317821183592994 ] } },
+{ "type": "Feature", "properties": { "NOME": "Ouro Preto", "codigo": 3146107 }, "geometry": { "type": "Point", "coordinates": [ -43.507353461693668, -20.286511087516963 ] } },
+{ "type": "Feature", "properties": { "NOME": "Cuyabá", "codigo": 5103403 }, "geometry": { "type": "Point", "coordinates": [ -56.097018849242282, -15.595046501413545 ] } },
+{ "type": "Feature", "properties": { "NOME": "Parahyba", "codigo": 2507507 }, "geometry": { "type": "Point", "coordinates": [ -34.86279876327805, -7.114569067836274 ] } },
+{ "type": "Feature", "properties": { "NOME": "Goyaz", "codigo": 5208905 }, "geometry": { "type": "Point", "coordinates": [ -50.140322520243544, -15.933495764954246 ] } },
+{ "type": "Feature", "properties": { "NOME": "Desterro", "codigo": 4205407 }, "geometry": { "type": "Point", "coordinates": [ -48.548972489024202, -27.595470833913197 ] } },
+{ "type": "Feature", "properties": { "NOME": "São Luiz", "codigo": 2111300 }, "geometry": { "type": "Point", "coordinates": [ -44.302896805010747, -2.529840419706655 ] } },
+{ "type": "Feature", "properties": { "NOME": "Recife", "codigo": 2611606 }, "geometry": { "type": "Point", "coordinates": [ -34.88080280844148, -8.053513535389742 ] } },
+{ "type": "Feature", "properties": { "NOME": "Maceió", "codigo": 2704302 }, "geometry": { "type": "Point", "coordinates": [ -35.734814839632946, -9.66541706256367 ] } },
+{ "type": "Feature", "properties": { "NOME": "Aracajú", "codigo": 2800308 }, "geometry": { "type": "Point", "coordinates": [ -37.071829591476664, -10.910341448493044 ] } },
+{ "type": "Feature", "properties": { "NOME": "Terezina", "codigo": 2211001 }, "geometry": { "type": "Point", "coordinates": [ -42.801878239958207, -5.088681601625793 ] } },
+{ "type": "Feature", "properties": { "NOME": "São Paulo", "codigo": 3550308 }, "geometry": { "type": "Point", "coordinates": [ -46.635953077129678, -23.546649443697113 ] } },
+{ "type": "Feature", "properties": { "NOME": "Nictherohy", "codigo": 3303302 }, "geometry": { "type": "Point", "coordinates": [ -43.103633695463174, -22.88179410809953 ] } }
+]
+}
